@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d24c0433.css",
-    "main.js": "/static/js/main.0b34afbf.js",
+    "main.css": "/static/css/main.756b5d8e.css",
+    "main.js": "/static/js/main.56a6f991.js",
     "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
+    "static/media/OMR_MainLogo.png": "/static/media/OMR_MainLogo.3cfa7b2cfa8205b2868c.png",
+    "static/media/Error_MainLogo.png": "/static/media/Error_MainLogo.960ac553dda33ee1a3b2.png",
     "static/media/myimage.jpg": "/static/media/myimage.7aa138a8792b47f2e37c.jpg",
+    "static/media/MainLogo.png": "/static/media/MainLogo.c6d7648b39cb9cd4ca1f.png",
     "index.html": "/index.html",
-    "main.d24c0433.css.map": "/static/css/main.d24c0433.css.map",
-    "main.0b34afbf.js.map": "/static/js/main.0b34afbf.js.map",
+    "main.756b5d8e.css.map": "/static/css/main.756b5d8e.css.map",
+    "main.56a6f991.js.map": "/static/js/main.56a6f991.js.map",
     "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24c0433.css",
-    "static/js/main.0b34afbf.js"
+    "static/css/main.756b5d8e.css",
+    "static/js/main.56a6f991.js"
   ]
 }
