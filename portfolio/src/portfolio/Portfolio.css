@@ -405,11 +405,6 @@ body {
     color: #374151;
 }
 
-.emoji {
-    font-size: 32px;
-    margin-right: 12px;
-}
-
 .contact-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -641,9 +636,10 @@ body {
     background: linear-gradient(135deg, #f59e0b, #ef4444, #ec4899);
 } */
 
-.project-emoji {
-    font-size: 96px;
-    color: white;
+.project-image img{
+    width: 200px;  /* 원하는 가로 크기 */
+    height: auto; /* 비율 유지 */
+    margin-top: 50px;
 }
 
 .project-content {
@@ -785,6 +781,7 @@ body {
     font-size: 20px;
     text-decoration: none;
     transition: all 0.3s ease;
+    cursor: pointer;
 }
 
 .footer-link:nth-child(1) {
